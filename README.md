@@ -10,7 +10,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
+start the program
 <br/>
 
 Step2:
@@ -22,10 +22,11 @@ Step3:
 <br/>
 
 Step4:
-
+un the program to move the robo master through our conditions.
 <br/>
 
 Step5:
+end the proram
 
 <br/>
 
