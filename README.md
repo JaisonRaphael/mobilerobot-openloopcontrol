@@ -14,10 +14,12 @@ start the program
 <br/>
 
 Step2:
-
+inistialise the type
 <br/>
 
 Step3:
+From robo master import robot.
+
 
 <br/>
 
